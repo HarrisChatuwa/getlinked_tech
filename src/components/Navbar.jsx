@@ -19,7 +19,7 @@ export default function Navbar() {
                     </div>
                 </div>
             </nav>
-            <div className="mt-4">
+            <div>
                 <Outlet />
             </div>
         </>
